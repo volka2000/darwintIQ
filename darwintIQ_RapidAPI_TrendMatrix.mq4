@@ -1,7 +1,7 @@
-//+------------------------------------------------------------------+
-//|                        darwintIQ_TrendMatrixEA.mq4
-//|  See more: https://rapidapi.com/darwintiq-darwintiq-default/api/darwintiq-trendmatrix
-//+------------------------------------------------------------------+
+//+------------------------------------------------------------------------------------------+
+//|                        darwintIQ_TrendMatrixEA.mq4                                       |
+//|  See more: https://rapidapi.com/darwintiq-darwintiq-default/api/darwintiq-trendmatrix    |
+//+------------------------------------------------------------------------------------------+
 #property strict
 
 /* ============================== Inputs ============================== */
